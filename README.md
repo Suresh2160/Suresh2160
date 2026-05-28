@@ -116,7 +116,7 @@ Real-time academic analytics dashboard tracking CGPA, attendance, and assignment
 ### 🌐 Developer Portfolio
 Personal portfolio showcasing all projects, skills, and experience — built with modern frontend practices and deployed on Vercel.
 
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio2-rosy-sigma.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://suresh2160.github.io/portfolio1/)
 
 `React.js` `Tailwind CSS` `Vercel`
 
