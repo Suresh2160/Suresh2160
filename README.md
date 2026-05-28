@@ -8,7 +8,7 @@
 
 ### AI-Powered Full-Stack Developer · Founder @ Shevara Nexus · Open to Internships & Collabs
 
-[![Portfolio]([https://suresh2160.github.io/portfolio1/])
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://suresh2160.github.io/portfolio1/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshio)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stsuresh06@gmail.com)
 
