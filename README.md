@@ -182,7 +182,7 @@ I'm open to **internships**, **freelance projects**, **startup collaborations**,
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://portfolio2-rosy-sigma.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://suresh2160.github.io/portfolio1/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/sureshio)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:stsuresh06@gmail.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge)](https://github.com/Suresh2160)
